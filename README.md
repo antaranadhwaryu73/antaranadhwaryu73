@@ -1,3 +1,81 @@
+# 👋 Hi, I'm Antaran Adhwaryu
+
+💻 **B.Tech CSE (AI & ML) Student | AI/ML Engineer | Full-Stack Developer | Data Science Enthusiast 🇮🇳**
+
+I’m a passionate developer from India who loves building **AI-powered applications, data-driven solutions, and modern web experiences**. 🚀
+
+I’m currently focused on strengthening my skills in **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Web Development** while building real-world projects.
+
+📩 **Open to:** Collaboration • Hackathons • Open Source • Freelance Projects • Innovative Ideas
+
+- 🔭 **I’m currently working on:** AI/ML projects, full-stack web applications, and innovative hackathon solutions
+- 🌱 **I’m currently learning:** Deep Learning, PyTorch, FastAPI, React, Node.js, Django & Advanced DSA
+- 👯 **I’m looking to collaborate on:** AI/ML, Data Science, Full-Stack, Open Source & Hackathon projects
+- 🤔 **I’m looking for help with:** Building production-ready AI applications and contributing to impactful open-source projects
+- 💬 **Ask me about:** Python, Data Science, AI/ML, Web Development, GitHub & Hackathons
+- 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/antaran-adhwaryu-1b18983a3/)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I believe every problem can become a project if you think creatively. 💡
+
+## 🚀 Tech Stack
+
+**Languages:**  
+Python • C • C++ • JavaScript • SQL
+
+**Data Science & AI/ML:**  
+NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn • PyTorch
+
+**Web Development:**  
+HTML • CSS • JavaScript • Tailwind CSS • React • Node.js • FastAPI • Django
+
+**Tools & Platforms:**  
+Git • GitHub • Docker • VS Code • Power BI • Excel
+
+## 🧠 What I'm Building
+
+- 🤖 **AI & Machine Learning Applications**
+- 📊 **Data Science & Analytics Projects**
+- 🌐 **Full-Stack Web Applications**
+- 🚀 **Hackathon & Real-World Problem Solving**
+- 🔗 **Blockchain & Web3 Solutions**
+
+## 🏆 Featured Projects
+
+### 🚆 BWU Bharat RailGuards
+AI-powered railway security system combining robotics, computer vision, sensors, and edge AI for real-time detection and monitoring.
+
+### 🎓 EduChain
+A blockchain-based academic certificate verification platform designed to make certificate verification secure, transparent, and tamper-resistant.
+
+### 💼 DigiServ
+A digital services platform focused on **web development, social media management, and data analytics/data science services**.
+
+## 📈 My Goals
+
+🎯 Become a strong **AI/ML Engineer + Full-Stack Developer**
+
+🎯 Build production-ready AI applications
+
+🎯 Contribute to **Open Source & GSoC**
+
+🎯 Participate in national and international hackathons
+
+🎯 Pursue higher studies in **CSE / AI & ML**
+
+---
+
+### 🤝 Let's Connect
+
+If you're interested in **AI, Machine Learning, Data Science, Full-Stack Development, Hackathons, or building something exciting**, feel free to connect!
+
+⭐ **If you find my projects useful, consider giving them a star!**
+
+> **"Build. Learn. Break. Fix. Repeat. 🚀"**
+
+
+
+
+
 # 💫 About Me:
 Aspiring Data Scientist and Ai Ml | Full-Stack Developer | AI/ML Engineer | Python • SQL • Power BI | Building data-driven & web apps
 
